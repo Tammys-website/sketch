@@ -1,0 +1,14 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    color: royalblue;
+    background-color: coral;
+}
+#show_sketch{
+    float: right;
+}
+p{
+    font-size: 25px;
+    font-family: cursive;
+}
